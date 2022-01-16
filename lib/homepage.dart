@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   SizedBox(width: 5,),
                   Text(
                     'Gallery',
-                    style: TextStyle(fontSize:20,color: Colors.purple),
+                    style: TextStyle(fontSize:20,color: Colors.green),
                   ),
                 ],
               ),
