@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     padding: EdgeInsets.all(4.0),
                     child: Icon(
                       Icons.image,
-                      color: Colors.purple,
+                      color: Colors.yellow,
                     ),
                   ),
                   SizedBox(width: 5,),
